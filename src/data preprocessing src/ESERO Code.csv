@@ -1,0 +1,43 @@
+Number,Description_yy
+50,Brakes
+51,Tires
+52,Steering
+53,Exhaust System
+54*,Windshield Wipers
+55*,Headlights
+55,Headlight Aim
+56*,Taillights
+57*,Horn
+58,Driver's Seat
+59,Suspension/ Shocks
+60*,Bumpers
+61*,Glass
+61,TINT
+62*,Load Cover
+64*,Stop Lights
+65*,Tag Light(s)
+66*,Dash Lights
+67,Wheel Alignment
+68*,Rearview Mirrors
+69*,Door Latch/ Handle
+70,Fuel System
+70*,Cap
+71*,Turn Signals
+72,Wheels/ Lugs
+73*,Hood Catch(s)
+74,Floor/ Trunk Pan(s)
+76*,Fender(s)/ Flap(s)
+77,Speedometer/ Odometer
+78*,Hazard Warning Lamp
+79*,Park Lamp
+80*,Side Marker Lamp
+81,Fog/ Auxiliary Driving Lamps
+82*,Emergency Warning Lamp
+83*,Back Up Lamp
+84*,Reflectors
+85,External Air Brake Component
+86*,Low Air Warning Device
+87*,Clearance Lamp
+88*,Identification Lamp
+89,Safety Belts
+90,Lift Axle Air/ Weight Ratio

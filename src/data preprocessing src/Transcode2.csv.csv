@@ -1,0 +1,545 @@
+Title,Section,Subsection,Description,Fine,Points,Contr.Acc Fine,Contr.Acc Points
+7,705,a1,Failure to pay fare in required manner  ................................ ..............................,$50.00,00,$50.00,00
+7,705,a2i,Failure to pay applicable fare  ................................ ................................ ...........,$50.00,00,$50.00,00
+7,705,a2ii,Failure to exhibit proof of payment  ................................ ................................ ..,$50.00,00,$50.00,00
+7,705,a2iii,Failure to provide truthful identification  ................................ ..........................,$50.00,00,$50.00,00
+7,705,b1,"Expectorating in (transit vehicle, transit facility, train ) ................................ ...",$50.00,00,$50.00,00
+7,705,b4,"Discarding litter in (transit vehicle, transit facility, train ) ................................",$50.00,00,$50.00,00
+7,705,b7,"(Carrying, Possessing ) live animals in (transit vehicle, transit facility, train ) .",$50.00,00,$50.00,00
+7,705,b8,Boarding transit vehicle through rear door  ................................ .......................,$50.00,00,$50.00,00
+7,705,b9,"(Urinating, Defecating ) in (transit vehicle, transit facility, train ) ....................",$150.00,00,$150.00,00
+7,705,b10,Failure to move to rear of transit vehicle when requested to do so  ...................,$50.00,00,$50.00,00
+7,705,b11,"Failure to vacate (elderly, handicapped ) seat when requested to do so  ............",$50.00,00,$50.00,00
+13,111,a,Failure to apply promptly for duplicate upon loss of certificate of title  ..........,$70.00,00,$70.00,00
+13,111,b,Failure to apply promptly for duplicate upon theft of certificate of title .........,$70.00,00,$70.00,00
+13,111,c,Failure to apply promptly for duplicate upon damage to certificate of title  ....,$70.00,00,$70.00,00
+13,111,e,Failure to surrender recovered original after issuance of duplicate  title .........,$70.00,00,$70.00,00
+13,112,b,Failure of veh. owner to deliver title cert to transferee  ................................ ...,$70.00,00,$70.00,00
+13,112,c1,Failure of transferee of veh. to promptly apply for new title certificate  .........,$70.00,00,$70.00,00
+13,112,e,"(Sale, Purchase ) of used veh. not titled certified and registered  .............................",$70.00,00,$70.00,00
+13,113,a,Failure of licensed veh. dealer to obtain title cert. executed by former owner  .......,$140.00,00,$140.00,00
+13,113,b,"Failure of licensed veh. dealer to retain title cert. unti l (sale, transfer ) of veh . ......",$140.00,00,$140.00,00
+13,113.1,a,Failure to give manf. cert. upon transfer of new veh. to dealer  ...............................,$140.00,00,$140.00,00
+13,113.1,c,Transfer of new veh. from another dealer lacking franchise for make of veh.  .......,$140.00,00,$140.00,00
+13,113.2,d,Second -stage mfr. failure to give dealer assigned cert. of origin on transfer of veh.,$140.00,00,$140.00,00
+13,114,b,Failure of involuntary transferee of veh. to apply for new title cert.   ..........................,$60.00,00,$60.00,00
+13,118,b,Failure to apply for corrected title cert. upon name change  ................................ .........,$60.00,00,$60.00,00
+13,203,b,Owner failure to execute security interest info. on veh. title cert.   ...............................,$140.00,00,$140.00,00
+13,206,,Secured party failure to disclose pertinent info. on written request of owner  ............,$140.00,00,$140.00,00
+13,401,b1,Operating unregistered motor vehicle  ................................ ................................ .............,$290.00,00,$290.00,00
+13,401,d,Driving veh. on hwy. with unpaid registration fee  ................................ ........................,$290.00,00,$290.00,00
+13,401,f,Driving veh. on hwy. with canceled registration  ................................ ...........................,$290.00,00,$290.00,00
+13,401,h,Driving veh. on hwy. with suspended registration  ................................ ........................,$150.00,00,$150.00,00
+13,401,j,Driving veh. on hwy. with revoked registration  ................................ ............................,$290.00,00,$290.00,00
+13,402,a2,Parking unregistered motor vehicle  ................................ ................................ ................,$290.00,00,$290.00,00
+13,409,a,Failure to carry registration card within vehicle  ................................ ............................,$50.00,00,$50.00,00
+13,409,b,Failure to display registration card upon demand by police officer  ............................,$50.00,00,$50.00,00
+13,410,c6,"Placing a county sticker on a (special, commemorative ) registration plate  ................",$50.00,00,$50.00,00
+13,411,a,Failure to attach veh. reg. plates at front and rear  ................................ ..........................,$70.00,00,$70.00,00
+13,411,b1,Failure to attach single registration plate on front of Class F vehicle  ..........................,$70.00,00,$70.00,00
+13,411,b2,Failure to attach single registration plate on rear of vehicle as required  .....................,$70.00,00,$70.00,00
+13,411,c1ii,"Failure to ( securely fasten, properly (place, position) ) registration plate to veh .  ......",$70.00,00,$70.00,00
+13,411,d,Driving veh. on hwy. without current registration plates and validation tabs  ............,$70.00,00,$70.00,00
+13,411,f,Displaying expired registration plate(s) issued by any state  ................................ .........,$70.00,00,$70.00,00
+13,411,h,Improper display of current and vintage reg. plates  ................................ ......................,$70.00,00,$70.00,00
+13,411.1,b,"(Selling, Offering for sale ) a registration plate cover  ................................ ....................",$70.00,00,$70.00,00
+13,420,a,Failure to reg. school type veh. used to daily transport students K thru 12  ....,$70.00,00,$70.00,00
+13,420,c,Failure of Type I school veh. to display school charter reg. plates  .................,$70.00,00,$70.00,00
+13,422,a,Failure to register veh. used in vanpool operation  ................................ ..........,$70.00,00,$70.00,00
+13,422,d,Requiring employee participation in company organized vanpool  .................,$70.00,00,$70.00,00
+13,422,e,Discriminating against employee in use of company organized vanpool  .......,$70.00,00,$70.00,00
+13,423,a,Failure to reg. motor veh. where PSC permit is required  ................................,$70.00,00,$70.00,00
+13,501,b,Unlawful use by transferee of existing reg. plates ten days after veh. transfer,$70.00,00,$70.00,00
+13,501,c,Failure to remove and return reg. plates 10 days after veh. transfer  ...............,$70.00,00,$70.00,00
+13,501,e,Unlawful possession of expired veh. reg. plates  ................................ .............,$70.00,00,$70.00,00
+13,503,c,Unlawful issuance of 45 day authorization for use of other veh. reg. plates ...,$70.00,00,$70.00,00
+13,602,a1ii,Lic. dealer issuing more than one temp. reg. for veh .  ................................ ....,$140.00,00,$140.00,00
+13,602,b,Lic. dealer issuing temp. reg. plate for veh. w/o completed buyer application,$140.00,00,$140.00,00
+13,604,b,Failure of lic. veh. dealer to affix veh. make and ID number on temp. reg. plate  ......,$290.00,00,$290.00,00
+13,604,c,Failure of lic. veh. dealer to attach temp. reg. plate to rear of veh .  ................,$290.00,00,$290.00,00
+13,605,c,Failure to destroy temp. reg. plates upon expiration of temp. reg.  .................,$70.00,00,$70.00,00
+13,606,b,Failure of lic. veh. dealer to maintain records of temp. reg. plates issued to dealer  ...,$70.00,00,$70.00,00
+13,607,a,Issuance by person of temp. reg. plate containing misstatement of fact  .........,$290.00,00,$290.00,00
+13,607,b,Person knowingly inserting false information on temp. reg. plate  ..................,$290.00,00,$290.00,00
+13,607,d,Dealer lending temp. reg. plate to any person  ................................ .................,$290.00,00,$290.00,00
+13,607,e,Dealer using temp. reg. plate on veh. dealer owns  ................................ ..........,$290.00,00,$290.00,00
+13,616.1,f1,Failure to display disabled person parking placard in veh. as required ...........,$140.00,00,$140.00,00
+13,616.2,d2,Unauthorized display of temporary parking placard  ................................ .......,$70.00,00,$70.00,00
+13,620,b,Failure to properly display special reg. plate as required by TR §13 -411 ......,$290.00,00,$290.00,00
+13,620,c,Use of special reg. plate on unauthorized veh .  ................................ ...............,$290.00,00,$290.00,00
+13,620,d,"(Driving veh., Permitting veh. to be driven ) with invalid special reg. plates . .",$290.00,00,$290.00,00
+13,625,e,Transporter operating on expired transporter reg. plates  ................................,$90.00,00,$90.00,00
+13,626,d,Failure to display shuttle permit on dashboard of veh .  ................................ ..,$70.00,00,$70.00,00
+13,629,,Unlawful veh. operation by common carrier with special reg. plates  .............,$90.00,00,$90.00,00
+13,702,a,"Driving veh. on hwy. with (canceled, suspended, revoked ) reg.  ...................",$150.00,00,$150.00,00
+13,703,a,Knowingly permitting unauthorized use of cert. of title  ................................ .,$290.00,00,$290.00,00
+13,703,b,Knowingly permitting unauthorized use of reg. card....  ................................ ..,$290.00,00,$290.00,00
+13,703,c,Knowingly permitting unauthorized use of reg. plate  ................................ .....,$290.00,00,$290.00,00
+13,703,d,Knowingly permitting unauthorized use of special reg. plate  ................................ ......,$290.00,00,$290.00,00
+13,703,e,Knowingly permitting unauthorized use of permit  ................................ .......................,$290.00,00,$290.00,00
+13,703,f,Unauthorized display and use of reg. card  ................................ ................................ .....,$290.00,00,$290.00,00
+13,703,g,Unauthorized display and use of reg. plate ................................ ................................ .....,$290.00,00,$290.00,00
+13,703,h,Unauthorized display and use of permit  ................................ ................................ .........,$290.00,00,$290.00,00
+13,704,a,Fraudulently applying for cert. of title  ................................ ................................ ............,$1000.00,12,$1000.00,12
+13,704,b,Fraudulently applying for veh. reg .  ................................ ................................ ................,$1000.00,12,$1000.00,12
+13,812,a,Lic. dealer failure to keep and preserve veh. taxable sales records  .............................,$290.00,00,$290.00,00
+13,918,b,"Operating Class E veh. with freight (trailer, semitrailer ) not reg. for combined wt . ....",$140.00,00,$140.00,00
+13,920,h1,"Failure of tow truck ( owner, operator ) to obtain required liability insurance",$500.00,00,$500.00,00
+13,920,j,Operating a tow truck for -hire without required registration  ..........................,MA,00,MA,00
+13,921,d1,Use of farm truck for -hire ................................ ................................ ...............,$60.00,00,$60.00,00
+13,921,d2,Use of farm truck for other use  ................................ ................................ .......,$60.00,00,$60.00,00
+13,924,d,Use of farm truck tractor for -hire ................................ ................................ ....,$90.00,00,$90.00,00
+13,924,e,Use of farm truck tractor for other use  ................................ ............................,$90.00,00,$90.00,00
+13,930,d,"Use of farm  (trailer, semitrailer ) for-hire ................................ .......................",$90.00,00,$90.00,00
+13,930,e,"Use of farm (trailer, semitrailer ) for other use  ................................ ...............",$90.00,00,$90.00,00
+13,935,d5,"Operating a Class K (farm area, island ) veh. without a license  .....................",MA,05,MA,05
+13,935,e,Operating an island vehicle on hwy . in the State not on an island  ..................,$70.00,01,$110.00,03
+13,937.1,d2i,Unlawful use of street rod for general daily transportation .............................,$140.00,00,$140.00,00
+13,941,c,Unlawful use of Class 1B reg. motorcycle dealer plates  ................................ .,$140.00,00,$140.00,00
+13,942,c,Unlawful use of Class 1C trailer dealer reg. plate on veh .  .............................,$140.00,00,$140.00,00
+13,943,c,Unlawful use of Class 2 recycler reg. plate on veh .  ................................ .......,$140.00,00,$140.00,00
+13,944,c,Unlawful use of Class 3 finance company reg. plate  ................................ ......,$140.00,00,$140.00,00
+13,945,c,Unlawful use of Class 4 mobile equipment reg. plate  ................................ .....,$140.00,00,$140.00,00
+13,946,c,Unlawful use of Class 5 transporter reg. plate other than as permitted in 13 -625 ....,$140.00,00,$140.00,00
+14,102,a,Driving veh. without  owner's consent with intent to deprive owner  .......................,MA,12,MA,12
+14,102,b,Taking veh. without  owner's consent with intent to deprive owner.  .......................,MA,12,MA,12
+14,103,a,Unlawful possession of master key to open any motor veh .  ................................ ..,MA,00,MA,00
+14,103,b,Unlawful possession of master key to operate any motor veh .  ..............................,MA,00,MA,00
+14,104,a,"Willful ly (damag e, tamper  with) motor vehicle without  owner's consent ..............",MA,00,MA,00
+14,104,b,"(Dropping, Throwing ) objects at veh. or its occupants  ................................ ............",MA,00,MA,00
+14,104,c,"Climbing (into, on ) any veh. with malicious intent  ................................ ..................",MA,00,MA,00
+14,105,a,Failure of police officer to immediately report veh. theft  ................................ ........,$70.00,00,$70.00,00
+14,105,c,Failure of police officer to report recovered stolen veh .  ................................ .........,$70.00,00,$70.00,00
+14,105,e,Person failing  to report recovered stolen veh .  ................................ ..........................,$70.00,00,$70.00,00
+14,105.1,a,Failure of secured party taking veh. to inform police  ................................ ...............,$70.00,00,$70.00,00
+14,105.1,b,Failure of secured party taking veh. to furnish veh. ID information to police  ........,$70.00,00,$70.00,00
+14,106,a,Person knowingly making false veh. theft report to police  ................................ ......,$140.00,00,$140.00,00
+14,107,b,Willfully removing veh. ID number  ................................ ................................ ..........,MA,00,MA,00
+14,107,c,Willfully falsifying veh. ID number  ................................ ................................ ..........,MA,00,MA,00
+14,107,d,Willfully removing engine ID number  ................................ ................................ ......,MA,00,MA,00
+14,107,e,Willfully falsifying engine ID number  ................................ ................................ ......,MA,00,MA,00
+14,107,f,"Knowingly (purchase, sell, possess, dispose of ) veh. with removed ID  .................",MA,00,MA,00
+14,107,g,"Knowingly (purchase, sell, possess, dispose of ) veh. with falsified ID  ..................",MA,00,MA,00
+14,107,h,"Knowingly (purchase, sell, possess, dispose of ) veh. with removed engine ID .....",MA,00,MA,00
+14,107,i,"Knowingly (purchase, sell, possess, dispose of ) veh. with falsified engine ID  ......",MA,00,MA,00
+14,110,e,Fraudulently falsifying veh. title cert. assignment  ................................ ..........,MA,12,MA,12
+14,110,f,"Knowingly holding falsified veh.  (document, reg. plate ) ...............................",MA,00,MA,00
+14,110,g,"Knowingly using falsified veh. (document, reg. plate ) ................................ ...",MA,00,MA,00
+15,112,a,Failure to inform motorized minibike buyer in writing of illegal hwy. use  ....,$290.00,00,$290.00,00
+15,112,b,Failure to inform motorized minibike buyer in writing of legal limits on use,$290.00,00,$290.00,00
+15,202,b,"Unlicensed distributor transfer to dealer any ( new motor veh., new two -stage veh. ).",$290.00,00,$290.00,00
+15,209,b,Distributor unlawfully terminating dealer franchise  ................................ .......,$290.00,00,$290.00,00
+15,209,c,Factory branch unlawfully terminating dealer franchise  ................................ .,$290.00,00,$290.00,00
+15,210,a,"False, deceptive,  or misleading advertising by veh. mfr.  ...............................",$290.00,00,$290.00,00
+15,210,b,"False, deceptive,  or misleading advertising by veh. distributor  ......................",$290.00,00,$290.00,00
+15,210,c,"False, deceptive,  or misleading advertising by veh. factory branch  ................",$290.00,00,$290.00,00
+15,211,g,Distributor unreasonably withholding veh. franchise transfer consent  ...........,$290.00,00,$290.00,00
+15,211,i,Factory branch unreasonably withholding veh. franchise transfer consent  .....,$290.00,00,$290.00,00
+15,302,a,Conducting business of dealer without  license  ................................ ...............,MA,00,MA,00
+15,302,b,"Conducting business of dealer after lic. (refused, revoked, suspended ) in state  .....",MA,00,MA,00
+15,305,f,Unauthorized sale of new veh. to retail buyer  ................................ .................,$290.00,00,$290.00,00
+15,311,d,Dealer failure on veh. delivery to advise buyer of uninstalled ordered extras,$290.00,00,$290.00,00
+15,311,e,Dealer failure on veh. delivery to advise buyer of uninstalled unordered extras ..,$290.00,00,$290.00,00
+15,311,f,Dealer failure on veh. delivery to advise buyer of cost of extras  ....................,$290.00,00,$290.00,00
+15,311.1,f,Dealer failing to attach proper price statement to window of veh . .................,$290.00,00,$290.00,00
+15,311.2,b43,Obligor required to file a mechanical repair contract failing to pay filing fee,$290.00,00,$290.00,00
+15,311.2,c1,Failure of obligor to register with the Insurance Commissioner each year .....,$290.00,00,$290.00,00
+15,311.2,c4,Failure of obligor to pay annual registration fee as required ...........................,$290.00,00,$290.00,00
+15,311.2,e,Failure to offer mechanical repair contract in addition to express warrant y..,$290.00,00,$290.00,00
+15,312,h,"(Dealer, Dealer agent, Dealer employee ) renting dealer reg. plates  ...............",MA,00,MA,00
+15,313,d,"Placing dealer advertis ement  on veh. without  (notice to, consent of ) buyer  ...",MA,00,MA,00
+15,314,g,"(Dealer, Dealer agent, Dealer employee ) willfully violating dealer lic. law  ..",MA,00,MA,00
+15,410,,Failure of veh. salesman to comply with sales contract requirements  ............,$140.00,00,$140.00,00
+15,411,b,Veh. salesman doing act prohibited by Title 15 -312 ................................ .......,MA,00,MA,00
+15,411,c,Prohibited advertising by veh. salesman  ................................ .........................,MA,00,MA,00
+15,411,d,Veh. salesman misrepresenting material fact in obtaining license  ..................,MA,00,MA,00
+15,513,a,Veh. dismantler violating uncrushed veh. storage density limits  ....................,$140.00,00,$140.00,00
+15,513,b,Veh. dismantler violating crushed veh. storage density limits  ........................,$140.00,00,$140.00,00
+15,602,,Conducting business of veh. title service agent without  license  .....................,$290.00,00,$290.00,00
+15,702,,Conducting driver's school without  license  ................................ .....................,$290.00,00,$290.00,00
+16,101,b,"Operating a ( moped, motor scooter ) on hwy. without req. license or permit  ..",MA,05,MA,05
+16,105,b1,Holder of learner's permit driving without req. supervision  ...........................,$290.00,05,$290.00,05
+16,105,b2,Holder of learner's permit driving with unauthorized person occupying front seat  ..,$140.00,00,$140.00,00
+16,105,c,Holder of learner's permit for motorcycle driving with unauthorized rider  ....,$140.00,00,$140.00,00
+16,111.1,f,Possessing more than one  current  driver's license at any one time  .................,$530.00,00,$530.00,00
+16,112,b,Failure of individual driving on hwy. to have lic. with  them  ..........................,$50.00,00,$50.00,00
+16,112,e,Failure of individual driving on hwy. to sign signature if requested by police .......,$50.00,00,$50.00,00
+16,112,f,Veh. driver giving false and fictitious name to uniformed police  ...................,$290.00,00,$290.00,00
+16,113,h,Driving veh. in violation of restricted license requirement  .............................,$70.00,00,$70.00,00
+16,113,i,Driving veh. in violation of provisional license requirement  ..........................,$70.00,00,$70.00,00
+16,114,b,"Licensee failure to apply for dup. lic. when lic. ( lost, stolen, mutilated, destroyed )",$70.00,00,$70.00,00
+16,114,d,Licensee failure to surrender recovered orig. lic. after dup. issued  .................,$70.00,00,$70.00,00
+16,115,g,Driving veh. on hwy. on expired lic .  ................................ ..............................,$70.00,00,$70.00,00
+16,301,c,"(Display, Cause, Permit to be displayed ) canceled lic .  ................................ ..",$250.00,03,$250.00,03
+16,301,d,"(Display, Cause, Permit to be displayed ) revoked lic .  ................................ ...",$250.00,03,$250.00,03
+16,301,e,"(Display, Cause, Permit to be displayed ) suspended lic .  ...............................",$250.00,03,$250.00,03
+16,301,f,"(Display, Cause, Permit to be displayed ) fictitious lic .  ................................ ..",MA,12,MA,12
+16,301,g,"(Display, Cause, Permit to be displayed ) fraudulently altered lic .  ................",MA,12,MA,12
+16,301,h,Possessing canceled lic .  ................................ ................................ .................,$250.00,03,$250.00,03
+16,301,i,Possessing revoked lic .  ................................ ................................ ..................,$250.00,03,$250.00,03
+16,301,j,Possessing suspended lic .  ................................ ................................ ...............,$250.00,03,$250.00,03
+16,301,k,Possessing fictitious lic .  ................................ ................................ .................,MA,12,MA,12
+16,301,l,Possessing fraudulently altered lic .  ................................ ................................,MA,12,MA,12
+16,301,m,"(Lending lic. to another, Knowingly permitting use of lic. by another ) ..........",MA,12,MA,12
+16,301,n,Person displaying lic. not issued to them  ................................ ........................,MA,12,MA,12
+16,301,p,Permitting unlawful use of lic .  ................................ ................................ .......,MA,12,MA,12
+16,302,,"(Duplication, Reproduction ) of (identification card, driver's license ) ....................",$140.00,12,$140.00,12
+16,304,a,"Causing (child, ward ) under 15 to drive motor veh. on hwy .  ................................ .",$290.00,05,$290.00,05
+16,304,b,"Knowingly permitting (child, ward ) under 15 to drive motor veh. on hwy .  .........",$290.00,05,$290.00,05
+16,804,,Driver of commercial motor veh. having more than one license  ............................,$530.00,12,$530.00,12
+16,807,a,Driving commercial motor veh. without required license for that class of vehicle  ...,MA,05,MA,05
+16,808,a3,"Driving commercial motor veh. while (lic., privilege ) canceled in this state  .........",MA,12,MA,12
+16,808,a5,"Driving commercial motor veh. while (lic., privilege ) suspended in this state  ......",MA,12,MA,12
+16,808,a7,"Driving commercial motor veh. while (lic., privilege ) revoked in this state  ..........",MA,12,MA,12
+16,808,a8,"Driving commercial motor veh. while (lic., privilege ) revoked by any other state",MA,12,MA,12
+16,808,a9ii,"Driving commercial motor veh. while (lic., privilege ) disqualified by DOT  .........",MA,12,MA,12
+17,104,,Owner failure to maintain required security for veh. during reg. period  ..................,$290.00,00,$290.00,00
+17,104.1,,"Operator of (moped, motor scooter ) failure to carry required security  .....................",$290.00,00,$290.00,00
+17,107,a1,Knowingly driving uninsured vehicle  ................................ ................................ .....,MA,05,MA,05
+17,107,a2,Owner knowingly permitting another person to drive uninsured vehicle  .............,MA,05,MA,05
+18,103,c,"Failure to keep required ( motor veh., trailer, semitrailer ) rental records  ....................",$290.00,00,$290.00,00
+18,104,a,Fraudulently renting motor veh. knowing that odometer does not record correctly  .,MA,00,MA,00
+18.5,103,b,Failure to keep required peer -to-peer car sharing program records  .......................,$290.00,00,$290.00,00
+20,102,a1,Failure to immediately stop veh. at scene of accident involving bodily injury  ..........,MA,12,MA,12
+20,102,b1,Failure to immediately stop veh. at scene of accident involving death .......................,MA,12,MA,12
+20,102,b2,Failure to immediately return and remain at scene of accident involving death  .......,MA,12,MA,12
+20,103,a,"Failure to stop after accident involving damage to attended (veh., property ) ............",MA,08,MA,08
+20,105,a,"Failure of veh. driver to stop after unattended (veh., property ) damage accident  .....",MA,08,MA,08
+20,105.1,,Failure of veh . driver involved in accident to give insurance policy information  .....,$140.00,00,$140.00,00
+20,108,,Knowingly giving false accident report information  ................................ ....................,MA,00,MA,00
+21,103,a,"Willfully disobeying ( lawful order, direction ) of a police officer  ...............................",$290.00,01,$330.00,03
+21,107,c,Willfully disobeying lawful direction of school crossing guard  ................................ ..,$290.00,01,$330.00,03
+21,201,a1,Driver failure to obey properly placed traffic control device instructions  ..............,$90.00,01,$130.00,03
+21,202,c,Failure to yield intersection right -of-way after green traffic signal  .........................,$90.00,01,$130.00,03
+21,202,e,"Failure to yield the right -of-way to ( pedestrian, bicycle ) after green arrow signal  ....",$90.00,01,$130.00,03
+21,202,h1,Driver fail to stop at steady circular red signal  ................................ .........................,$140.00,02,$180.00,03
+21,202,h2,Driver fail to stop at steady red arrow  ................................ ................................ .......,$140.00,02,$180.00,03
+21,202,i1,Driver fail to stop at red traffic signal before right turn  ................................ ...........,$90.00,02,$130.00,03
+21,202,j,Driver fail to stop at red traffic signal before any other turn  ................................ ...,$90.00,02,$130.00,03
+21,202,l,Pedestrian entering roadway against red traffic signal  ................................ .............,$90.00,00,$90.00,00
+21,202,m,"Driver fail to make required stop at ( signal, sign, pavement mark ) ........................",$90.00,02,$130.00,03
+21,203,c,"Pedestrian fail to obey ( ""don't walk"", ""upraised hand"" ) signal  ...............................",$50.00,00,$50.00,00
+21,203,d,"Pedestrian fail to obey ""wait"" signal  ................................ ................................ ..........",$50.00,00,$50.00,00
+21,204,b,Driver fail to stop at flashing red traffic signal stop line  ................................ ..........,$90.00,01,$130.00,03
+21,204,c,Driver entering crosswalk at flashing red traffic signal without stopping  ..............,$90.00,01,$130.00,03
+21,204,d,Driver entering intersection at flashing red traffic signal without stopping ............,$90.00,01,$130.00,03
+21,204,f,Driver fail to exercise caution at intersection with flashing yellow signal  .............,$90.00,01,$130.00,03
+21,204.1,,"(Entering, Traveling in ) lane over which red signal shown  ................................ .....",$90.00,01,$130.00,03
+21,205,a,"Displaying unauthorized traffic control ( device, sign, signal ) in view of hwy.  .....",$140.00,00,$140.00,00
+21,205,b,"Displaying unauthorized hwy. traffic ( marker, device ) directing traffic on hwy .",$140.00,00,$140.00,00
+21,205,c,"Obstruction of hwy. control (device, sign, signal ) ................................ ..........",$140.00,00,$140.00,00
+21,205,d,"Displaying unauthorized hwy. (warning sign, signal, device ) ........................",$40.00,00,$40.00,00
+21,207,b,Veh. entering intersection occupied by funeral procession  .............................,$60.00,01,$100.00,03
+21,301,a,Failure to drive veh. on right half of roadway when required  ........................,$90.00,01,$130.00,03
+21,302,b,Failure to give roadway half to opposite direction vehicle on narrow road  ...,$90.00,01,$130.00,03
+21,303,b,Improper passing of overtaken vehicle ................................ ...........................,$90.00,01,$130.00,03
+21,303,c,Driving vehicle directly in front of overtaken vehicle  ................................ ...,$90.00,01,$130.00,03
+21,303,e,Driver increasing speed when overtaken by passing vehicle  .........................,$90.00,01,$130.00,03
+21,304,b,Unsafe passing to right of overtaken vehicle  ................................ .................,$110.00,01,$150.00,03
+21,304,c,Driving motor vehicle off roadway while passing vehicle  .............................,$110.00,01,$150.00,03
+21,305,,Driving left of roadway center in overtaking and passing when unsafe  .........,$90.00,01,$130.00,03
+21,307,b,Driving on left side of roadway in posted no passing zone  ............................,$90.00,01,$130.00,03
+21,307,d1,Unsafe left turn in no passing zone  ................................ ................................,$90.00,01,$130.00,03
+21,308,a,Failure to drive designated one way direction on posted roadway  .................,$90.00,01,$130.00,03
+21,308,b,Failure to pass around rotary traffic island to right of island  .........................,$90.00,01,$130.00,03
+21,309,b,Driver changing lanes when unsafe  ................................ ................................,$90.00,01,$130.00,03
+21,309,c,Prohibited driving in center lane  ................................ ................................ ....,$90.00,01,$130.00,03
+21,309,d,Driver failure to obey designated lane directions  ................................ ...........,$90.00,01,$130.00,03
+21,309,e,Driver changing lanes where prohibited by traffic control device .........................,$90.00,01,$130.00,03
+21,309,f,"Driver failure to obey traffic lane directions for (trailer, bus, truck)  .....................",$90.00,01,$130.00,03
+21,309,g,Driver unlawfully entering left turn lane  ................................ ................................ .,$90.00,01,$130.00,03
+21,309,h,Driver in left turn lane longer distance than necessary  ................................ ...........,$90.00,01,$130.00,03
+21,309,i,Driver failing to make left turn from left turn lane  ................................ .................,$90.00,01,$130.00,03
+21,310,a,Driver of motor veh. following veh. closer than reasonable and prudent  .............,$110.00,02,$150.00,03
+21,311,1,Failure to drive on right hand roadway of divided hwy.  ................................ .......,$90.00,01,$130.00,03
+21,311,2,"Driving ( over, across, within ) (dividing space, barrier, section ) on divided hwy . .",$90.00,01,$130.00,03
+21,311,3,Driving on median strip on divided hwy.   ................................ ...............................,$90.00,01,$130.00,03
+21,312,a,"Driving veh. onto controlled access hwy. from unauthorized ( entrance, exit ) .....",$90.00,01,$130.00,03
+21,312,b,"Driving veh. from controlled access hwy. from unauthorized ( entrance, exit ) ....",$90.00,01,$130.00,03
+21,313,c,Person disobeying controlled access hwy. restriction  ................................ ............,$90.00,01,$130.00,03
+21,314,b,Driving vehicle in HOV lane when not authorized by traffic control device  .......,$90.00,00,$90.00,00
+21,401,,Failure of veh. to yield intersection right -of-way to another veh .  ..........................,$110.00,01,$150.00,03
+21,402,b,Driver when making U -turn failure to yield right -of-way to approaching veh .  ........,$110.00,01,$150.00,03
+21,403,b,Driver failure to stop at thru hwy. entrance and yield right -of-way ................,$110.00,01,$150.00,03
+21,403,c,Driver failure to stop at intersecting hwy. stop sign and yield right -of-way.  ..,$110.00,01,$150.00,03
+21,403,d,Driver failure to yield right -of-way at intersection yield sign  .........................,$110.00,01,$150.00,03
+21,404,d,"Driver failure to stop before ( entering, crossing ) paved hwy. from unpaved hwy . ...",$110.00,01,$150.00,03
+21,404.1,a,Failure of driver at crossover to yield right -of-way to veh. on hwy . ..............,$110.00,01,$150.00,03
+21,404.1,b,Failure of driver at crossover to make left turn from extreme left lane  ..........,$110.00,01,$150.00,03
+21,405,a,"Failure of driver to yield right-of-way to  (emergency, police ) veh. using signals ..",$110.00,01,$150.00,03
+21,405,b,"Failure of driver to drive to curb upon signal by  (emergency, police ) veh .  ...",$110.00,01,$150.00,03
+21,405,d,"Driver passing moving ( emergency, police ) veh. using signals  ................................ ...",$110.00,02,$150.00,03
+21,502,a2,Driver failure to stop for pedestrian in crosswalk  ................................ ..........,MA,01,MA,03
+21,502,b,Pedestrian unsafely crossing in path of veh .  ................................ .................,$50.00,00,$50.00,00
+21,502,c,Driver passing veh. stopped for pedestrian at crosswalk  ................................,MA,01,MA,03
+21,503,b,Pedestrian failure to yield right -of-way to veh. when unsafely crossing roadway  ..,$50.00,00,$50.00,00
+21,504,a,Driver failure to exercise due care to avoid pedestrian collision  ....................,$70.00,01,$110.00,03
+21,504,b,Driver failure to sound horn warning to pedestrian  ................................ .....................,$70.00,01,$110.00,03
+21,505,,Pedestrian failure to walk on right half crosswalk where practicable  ........................,$50.00,00,$50.00,00
+21,506,a,Pedestrian walking along and on adjacent roadway where sidewalk provided  .......,$50.00,00,$50.00,00
+21,507,b,Standing in roadway to solicit protection for parked veh .  ................................ .........,$70.00,00,$70.00,00
+21,508,,"Driving ( through, in ) a safety zone  ................................ ................................ ..........",$70.00,01,$110.00,03
+21,509,a,Walking along controlled access hwy .  ................................ ................................ ...,$70.00,00,$70.00,00
+21,509,b,Walking on controlled access hwy .  ................................ ................................ ........,$70.00,00,$70.00,00
+21,509,c,Walking along controlled access hwy. ramp  ................................ ...........................,$70.00,00,$70.00,00
+21,509,d,Walking on controlled access hwy. ramp  ................................ ................................,$70.00,00,$70.00,00
+21,509,e,Walking along controlled access hwy. access road  ................................ ................,$70.00,00,$70.00,00
+21,509,f,Walking on controlled access hwy. access road  ................................ .....................,$70.00,00,$70.00,00
+21,509,g,Leaving movable veh. on controlled access hwy .  ................................ .................,$70.00,00,$70.00,00
+21,509,h,Leaving movable veh. on controlled access hwy. ramp  ................................ .........,$70.00,00,$70.00,00
+21,509,i,Leaving movable veh. on controlled access hwy.  access road  ..............................,$70.00,00,$70.00,00
+21,510,c,Emergency veh. driver failure to drive safely  ................................ .........................,$50.00,00,$50.00,00
+21,511,a2,"Driver failure to yield to ( deaf, hearing impaired ) pedestrian with guide dog  .....",$70.00,02,$110.00,03
+21,601,a,Driver failure to make right turn from right roadway curb and edge  ....................,$90.00,01,$130.00,03
+21,601,b,Driver failure to make left turn from extreme left lane  ................................ ..........,$90.00,01,$130.00,03
+21,601,c,Driver failure to enter lawful lane after left turn  ................................ .....................,$70.00,01,$110.00,03
+21,601,d,Driver failure to obey traffic device on making turn  ................................ ..............,$70.00,01,$110.00,03
+21,602,a,Driver making prohibited U -turn on curve ................................ ..............................,$90.00,01,$130.00,03
+21,602,b,Driver making prohibited U -turn on crest of grade  ................................ ................,$90.00,01,$130.00,03
+21,603,a,"Driver starting veh. from ( stopped, standing, parked ) position when unsafe  .......",$90.00,01,$130.00,03
+21,604,a,Driver making improper turn at intersection  ................................ ...........................,$90.00,01,$130.00,03
+21,604,b,"Driver making turn onto private ( road, driveway ) when unsafe  ...........................",$90.00,01,$130.00,03
+21,604,c,Driver turning vehicle without giving appropriate signal as required  ...................,$90.00,01,$130.00,03
+21,604,e,"Driver failure to signal intention to ( stop, decrease veh. speed ) ............................",$90.00,01,$130.00,03
+21,605,a,"Driver failure to use ( hand, arm, signal lamp ) before  (stop, turn ) ........................",$90.00,01,$130.00,03
+21,606,b,"Failure to give required ( hand, arm ) signal for veh. left turn  ................................ .",$90.00,01,$130.00,03
+21,606,c,"Failure to give required ( hand, arm ) signal for veh. right turn  ..............................",$90.00,01,$130.00,03
+21,606,d,"Failure to give required ( hand, arm ) signal for veh. ( stop, decrease in speed ) ........",$90.00,01,$130.00,03
+21,701,a,Driver failure to stop at RR grade crossing  ................................ ....................,$90.00,01,$130.00,03
+21,701,b,Driver failure to obey RR grade crossing gate and barrier  ................................ .....,$90.00,01,$130.00,03
+21,702,b,Driver failure to stop at stop sign at RR grade crossing  ................................ .........,$90.00,01,$130.00,03
+21,703,b,Driver failure to stop veh. 15 to 50 feet from nearest railroad crossing rail  ..........,$90.00,01,$130.00,03
+21,703,c,"Driver failure to stop, look, listen at RR grade crossing  ................................ .........",$90.00,01,$130.00,03
+21,703,d,Driver proceeding across railroad crossing when unsafe  ................................ .......,$90.00,01,$130.00,03
+21,703,f,Driver manually shifting gears while passing over railroad track  .........................,$90.00,01,$130.00,03
+21,704,a,Prohibited crossing RR grade with heavy equipment  ................................ ............,$90.00,01,$130.00,03
+21,705,d,"Failure to yield right -of-way to pedestrian upon entering ( alley, driveway, building )",$90.00,01,$130.00,03
+21,706,a,Failure to stop for stopped school veh. operating alternately flashing red lights  .....,$570.00,03,$570.00,03
+21,707,a,Driver failure to stop at stop sign line ................................ ................................ ............,$90.00,01,$130.00,03
+21,707,b,Driver failure to stop at stop sign before entering crosswalk ................................ ......,$90.00,01,$130.00,03
+21,707,c,Failure to stop at stop sign at nearest point of approaching traffic view  ...................,$90.00,01,$130.00,03
+21,707,d,Driver failure to stop at yield sign when req. for safety  ................................ ..............,$90.00,01,$130.00,03
+21,707,e,Driver failure to stop at yield sign before entering crosswalk when req. for safety  .,$90.00,01,$130.00,03
+21,708,b,Driver failure to stop for livestock crossing posted hwy .  ................................ ...........,$90.00,01,$130.00,03
+21,801,a,Driving veh. in excess of reasonable and prudent speed on hwy .  .................,$90.00,01,$130.00,03
+21,801,b,Failure to control veh. speed on hwy. to avoid collision  ................................,$130.00,03,$130.00,03
+21,801,c,Failure to reduce veh. speed at intersection without traffic device  .................,$90.00,01,$130.00,03
+21,801,d,Failure to reduce speed at railroad grade crossing  ................................ ..........,$90.00,01,$130.00,03
+21,801,e,Failure to reduce speed on curve  ................................ ................................ ....,$90.00,01,$130.00,03
+21,801,f,Failure to reduce speed on crest of grade  ................................ .......................,$90.00,01,$130.00,03
+21,801,g,Failure to reduce speed on narrow and winding roadway  ..............................,$90.00,01,$130.00,03
+21,801,h,"Failure to reduce speed in dangerous (weather, highway conditions)  ............",$90.00,01,$130.00,03
+21,801,,1 to 9 mph  ................................ ................................ ................................ .......,$80.00,01,$120.00,03
+21,801,,10 to 19 mph  ................................ ................................ ................................ ...,$90.00,02,$130.00,03
+21,801,,20 to 29 mph  ................................ ................................ ................................ ...,$160.00,02,$200.00,03
+21,801,,"Exceeding posted maximum speed limit of ( 65,70 ) mph by 10 to 19 mph  ....",$160.00,02,$200.00,03
+21,801,,"Exceeding posted maximum speed limit of ( 65,70 ) mph by 20 to 29 mph  ....",$290.00,05,$290.00,05
+21,801,,30 to 39 mph  ................................ ................................ ................................ ...,$290.00,05,$290.00,05
+21,801,,1 to 9 mph  ................................ ................................ ................................ .....,$290.00,01,$330.00,03
+21,801,,10 to 19 mph  ................................ ................................ ................................ .,$300.00,02,$340.00,03
+21,801,,20 to 29 mph  ................................ ................................ ................................ .,$370.00,02,$410.00,03
+21,801,,30 to 39 mph  ................................ ................................ ................................ .,$500.00,05,$540.00,05
+21,801,,notice of double fines ) 1 to 9 mph  ................................ ................................ ................................ .....,$120.00,01,$160.00,03
+21,801,,10 to 19 mph  ................................ ................................ ................................ .,$140.00,02,$180.00,03
+21,801,,20 to 29 mph  ................................ ................................ ................................ .,$270.00,02,$310.00,03
+21,801,,30 to 39 mph  ................................ ................................ ................................ .,$540.00,05,$540.00,05
+21,804,b,Driving veh. below minimum speed limit on posted hwy .  ............................,$80.00,01,$120.00,03
+21,805,a,Driving slow moving veh. without appropriate rear emblem display  .............,$80.00,01,$120.00,03
+21,805,c,Improper display of slow moving veh. emblem  ................................ .............,$80.00,01,$120.00,03
+21,805,d,Selling new farm equipment without slow moving veh. emblem  ...................,$80.00,01,$120.00,03
+21,805,e,"Failure to ( display, maintain ) slow moving veh. emblem on farm equipment  .....",$80.00,01,$120.00,03
+21,805,f,Improper display of slow moving veh. emblem on farm equipment  ..............,$80.00,01,$120.00,03
+21,805.1,a,Driving limited speed veh. on hwy. without properly displayed  emblem  ......,$80.00,01,$120.00,03
+21,806,b,"Exceeding max. posted speed on ( bridge, elevated structure ) .......................",$80.00,01,$120.00,03
+21,1001,b,Causing standing veh. to obstruct free veh. passage of roadway  .........................,$60.00,00,$60.00,00
+21,1001,c,Stopping veh. on hwy. with less than 200 ft. visibility  ................................ .........,$70.00,00,$70.00,00
+21,1003,b,"(Stopping, Standing, Parking ) veh. in front of public driveway  ..........................",$60.00,00,$60.00,00
+21,1003,c,"(Stopping, Standing, Parking ) veh. on sidewalk  ................................ ...................",$60.00,00,$60.00,00
+21,1003,d,"(Stopping, Standing, Parking ) veh. in intersection  ................................ ...............",$70.00,00,$70.00,00
+21,1003,e,"(Stopping, Standing, Parkin g) veh. on crosswalk  ................................ .................",$60.00,00,$60.00,00
+21,1003,f,"(Stopping, Standing, Parking ) veh. between safety zone and curb  .....................",$60.00,00,$60.00,00
+21,1003,g,"(Stopping, Standing, Parking ) veh. or obstructing traffic at hwy. excavation  ....",$60.00,00,$60.00,00
+21,1003,h,"(Stopping, Standing, Parking ) veh. on ( bridge, elevated structure ) ....................",$70.00,00,$70.00,00
+21,1003,i,"(Stopping, Standing, Parking ) veh. in hwy. tunnel  ................................ ...............",$70.00,00,$70.00,00
+21,1003,j,"(Stopping, Standing, Parking ) veh. where prohibited by official sign  ................",$60.00,00,$60.00,00
+21,1003,k,"(Stopping, Standing, Parking ) veh. on hwy. ramp  ................................ ................",$70.00,00,$70.00,00
+21,1003,l,"(Standing, Parking ) veh. in front of private driveway without owner's consent",$70.00,00,$70.00,00
+21,1003,m,"(Standing, Parking ) veh. within 15 feet of fire hydrant  ................................ ........",$60.00,00,$60.00,00
+21,1003,p,"(Standing, Parking ) veh. within prohibited fire station driveway entrance zone",$70.00,00,$70.00,00
+21,1003,q,"(Standing, Parking ) veh. wherever prohibited by official sign s ..........................",$60.00,00,$60.00,00
+21,1003,r,"Prohibited double ( standing, parking ) ................................ ................................ ........",$60.00,00,$60.00,00
+21,1003,s,"(Standing, Parking ) veh. on roadway in no passing zone  ................................ .........",$60.00,00,$60.00,00
+21,1003,t,Parking within 50 feet of rail at railroad grade crossing ................................ ............,$60.00,00,$60.00,00
+21,1003,w,"Unauthorized parking on Balto. Co. ( Bd. Education, Comm . College ) property ...",$50.00,00,$50.00,00
+21,1003,y,Unauthorized parking on Prince George's Co.  Board of Education  property .........,$50.00,00,$50.00,00
+21,1003,aa,Parking where prohibited by official sign s ................................ ................................ .,$50.00,00,$50.00,00
+21,1003,bb,Person moving veh. not in their lawful control into prohibited area  ........................,$50.00,00,$50.00,00
+21,1004,a,"Failure to ( stop, park ) veh. within 12 inches of right curb  ................................ ........",$50.00,00,$50.00,00
+21,1004,b,"Failure to ( stop, park ) veh. within 12 inches of curb on one -way road  ...................",$50.00,00,$50.00,00
+21,1004,e,"(Stopping, Standing, Parking ) veh. on private property without permission  .........",$50.00,00,$50.00,00
+21,1005,f,Fraudulent use of disabled person's reserved parking space permit  ........................,$140.00,00,$140.00,00
+21,1005,m,Parking in personal residential reserved space without display of permit  ..............,$90.00,00,$90.00,00
+21,1101,b,Leaving unattended veh. on grade without curbing wheels  ...........................,$70.00,01,$110.00,03
+21,1102,a,Unsafe backing of motor veh .  ................................ ................................ .......,$90.00,01,$130.00,03
+21,1102,b,"Driver backing motor veh. on ( shoulder, roadway ) of controlled access hwy .  ...",$90.00,01,$130.00,03
+21,1103,a,Driving veh. on sidewalk and sidewalk area where prohibited  ................................ ..,$70.00,01,$110.00,03
+21,1104,b,"Veh. passenger ( obstructing driver's view, interfering with driver control ) .............",$70.00,01,$110.00,03
+21,1104,d,"Driving veh. with ( windshield, window ) view obstructed by sign material  ..............",$70.00,01,$110.00,03
+21,1105,a,Person opening door of motor veh. on moving traffic side when unsafe  ..................,$70.00,01,$110.00,03
+21,1105,b,Person failing to close veh. door on traffic side of veh .  ................................ .............,$70.00,01,$110.00,03
+21,1106,a,Person occupying mobile home while being towed on hwy .  ................................ ....,$70.00,01,$110.00,03
+21,1107,b1,Driver permitting person to occupy area of veh. primarily intended to carry cargo  ....,$110.00,01,$150.00,03
+21,1107,b2,Person occupying area of vehicle primarily intended to carry cargo  .........................,$110.00,00,$110.00,00
+21,1108,a,Driver of motor veh. coasting downgrade in neutral gear and transmission  ............,$70.00,01,$110.00,03
+21,1108,b,"Driver ( truck, bus ) coasting downgrade with clutch disengaged  ...............................",$70.00,01,$110.00,03
+21,1109,a,"Veh. driver ( following, parking ) within prohibited distance of fire apparatus  .........",$70.00,01,$110.00,03
+21,1111,a,"(Dropping, Throwing, Placing ) injurious substance on hwy .  ................................ ...",$140.00,02,$180.00,03
+21,1111,b,"Failure to remove ( destructive, hazardous, injurious ) material from hwy .  .........",$140.00,02,$180.00,03
+21,1112,,Turning off veh. lights to avoid ID  ................................ ................................ ................,$290.00,08,$290.00,08
+21,1113,a,"Placement of hwy. traffic hazard for ( selling, displaying ) merchandise  ...................",$140.00,00,$140.00,00
+21,1114,a,Driving on unopened roadway ................................ ................................ .......................,$70.00,00,$70.00,00
+21,1114,b,Walking on unopened roadway  ................................ ................................ .....................,$70.00,00,$70.00,00
+21,1114,c,Willfully damaging a highway  ................................ ................................ ......................,$290.00,00,$290.00,00
+21,1115,a,"Unlawful movement of hwy. ( signal light, guard ) on closed hwy .  ..........................",$140.00,00,$140.00,00
+21,1115,b,"Unlawful removal of hwy.  (signal light, guard ) on closed hwy .  ..............................",$140.00,00,$140.00,00
+21,1115,c,"Unlawful altering position of hwy. ( signal light, guard ) on closed hwy .  ................",$140.00,00,$140.00,00
+21,1116,a1,"Driving veh. in ( race, speed contest ) on ( hwy., private property used by public )....",MA,08,MA,08
+21,1116.1,b,"Engaging in exhibition driving on ( hwy., private property used by public)  .............",MA,08,MA,08
+21,1117,b,Driving motor veh. in manner intended to cause skidding  ................................ .........,$70.00,01,$110.00,03
+21,1117,c,Driving motor veh. in manner intended to cause wheel spinning  ..............................,$70.00,01,$110.00,03
+21,1117,d,Driving motor veh. in manner intended to cause excessive noise  .............................,$70.00,01,$110.00,03
+21,1118,a,Driving school bus onto roadway without stopping to determine danger  ................,$70.00,01,$110.00,03
+21,1118,c,Responsible school bus person permitting excessive pupil standees  ........................,$70.00,01,$110.00,03
+21,1118,e,Responsible school bus person permitting pupil standees in front of bus  .................,$70.00,01,$110.00,03
+21,1118,g,Responsible school bus person requiring pupil to sit on floor of bus  ........................,$70.00,01,$110.00,03
+21,1118,h,Unauthorized occupancy of school bus during fueling  ................................ ...............,$70.00,01,$110.00,03
+21,1125,2,"Driving low speed vehicle on ( expressway, controlled access highway ) .......",$70.00,01,$110.00,03
+21,1125,3,"Driving low speed vehicle on prohibited ( county, municipal ) hwy.  ..............        70.00  01",$110.00,03,$110.00,03
+21,1132,c,Driver engaging in exhibition driving within a special event zone  ................,MA,01,MA,03
+21,1132,,1 to 9 mph  ................................ ................................ ................................ ......,$530.00,01,$570.00,03
+21,1132,,10 to 19 mph ................................ ................................ ................................ ...,$540.00,02,$580.00,03
+21,1132,,20 to 20 mph ................................ ................................ ................................ ...,$610.00,02,$650.00,03
+21,1132,,30 to 39 mph ................................ ................................ ................................ ...,$740.00,05,$780.00,05
+21,1132,d2,Negligent driving under TR § 21 -901.1(b) within a special event zone  .........,$530.00,01,$570.00,03
+21,1133,a,"Unauthorized veh. (driving , standing, parking ) in dedicated bus lane  ...........",$90.00,01,$150.00,03
+21,1204,c,Play veh. rider attaching to veh. on roadway ................................ ................,$60.00,00,$60.00,00
+21,1204,d,Coaster rider attaching to veh. on roadway  ................................ ..................,$60.00,00,$60.00,00
+21,1204,e,Skateboard rider attaching to veh. on roadway  ................................ ............,$60.00,00,$60.00,00
+21,1204,f,Roller skater attaching to veh. on roadway  ................................ ..................,$60.00,00,$60.00,00
+21,1204,g,Sledder attaching to veh. on roadway  ................................ ...........................,$60.00,00,$60.00,00
+21,1204,h,Toy veh. rider attaching to veh. on roadway  ................................ ................,$60.00,00,$60.00,00
+21,1205.1,c,Operating motor scooter in excess of 30 mph  ................................ ..............,$50.00,00,$50.00,00
+21,1303,b,Driving motor veh. depriving motorcycle of full use of lane ......................,$110.00,01,$150.00,03
+21,1303,e,Operating motorcycle more than 2 abreast in a single lane  ........................,$80.00,01,$120.00,03
+21,1304,,Person riding motorcycle attached to other veh. on roadway  .....................,$80.00,01,$120.00,03
+21,1305,a,Failure of motorcycle with passenger to have passenger footrest  ...............,$80.00,00,$80.00,00
+21,1404,a,Failure to obey lawful sign at authority highway  ................................ .......,$70.00,01,$110.00,03
+21,1405,a,Pedestrian using unauthorized authority highway  ................................ ......,$70.00,00,$70.00,00
+21,1405,b,Use of bicycle on unauthorized authority highway ................................ .....,$70.00,00,$70.00,00
+21,1406,,"(Hitchhike, Pickup, Discharge passengers ) on authority highway  .............",$70.00,00,$70.00,00
+21,1407,,"(Stopping, Standing, Parking ) on authority highway when prohibited  .......",$70.00,00,$70.00,00
+21,1409,,Failure to maintain posted min. speed on authority highway  .....................,$70.00,01,$110.00,03
+21,1412,a,Crossing double painted traffic lane lines in tunnel  ................................ ....,$70.00,01,$110.00,03
+21,1412,b,"Failure to drive ( truck, slow moving veh. ) in right lane in tunnel  ...............",$70.00,01,$110.00,03
+21,1412,c,"Veh. driver ( sounding horn, flashing headlights ) in tunnel  ........................",$70.00,01,$110.00,03
+21,1413,a,"(Failure, Refusal ) to pay fixed toll at authority highway  ............................",$70.00,00,$70.00,00
+22,105,a,Operating veh. on hwy. with altered and dangerous bumper or suspension,$70.00,00,$70.00,00
+22,203,b,altered to exceed Failure to properly equip and locate headlamps on motor ve h.  ............,$70.00,00,$70.00,00
+22,203,c1,Failure to equip motorcycle with required headlamps  ...........................,$60.00,00,$60.00,00
+22,204,d,Driving veh. with improperly mounted and spaced tail lamp  .....................,$70.00,00,$70.00,00
+22,204,e,Driving veh. in violation of tail lamp height requirement ...........................,$70.00,00,$70.00,00
+22,204,f,Driving veh. without adequate rear reg. plate illumination .........................,$70.00,00,$70.00,00
+22,205,b,Failure to mount veh. rear reflectors at required ht. and spacing  ................,$60.00,00,$60.00,00
+22,209,b,Failure to display and reflect red color light on lamps and reflectors as req .  .........,$70.00,00,$70.00,00
+22,210,a,Veh. hwy. operation with improperly mounted reflectors  ............................,$70.00,00,$70.00,00
+22,210,b,Pole trailer operation with improperly mounted rear reflectors  ....................,$70.00,00,$70.00,00
+22,210,c,Veh. hwy. operation with inadequate rear red light reflector  .......................,$70.00,00,$70.00,00
+22,210,d,Veh. hwy. operation with improperly mounted clearance lamps  .................,$70.00,00,$70.00,00
+22,210,f,Veh. hwy. operation with inadequate width marking clearance lamps  ........,$70.00,00,$70.00,00
+22,210,h,Veh. hwy. operation with clearance lamp combined with other lamp  ..........,$70.00,00,$70.00,00
+22,211,b,"Veh. hwy. operation with inadequate ( side light, rear red color reflectors )",$70.00,00,$70.00,00
+22,211,d,Veh. hwy. operation with inadequate side marker lamp  ...............................,$70.00,00,$70.00,00
+22,214,a,Failure to equip vehicle with parking lamps  ................................ .................,$70.00,00,$70.00,00
+22,214,c,"Failure to ( depress, dim ) lighted head lamps on parked veh .  ......................",$70.00,00,$70.00,00
+22,216,,Failure to equip hwy. veh. with required lamps and reflectors  .....................,$70.00,00,$70.00,00
+22,217,a,Improper use of veh. spot lamps  ................................ ................................ ...,$70.00,00,$70.00,00
+22,217,b,Improper use of veh. fog lamps  ................................ ................................ ....,$70.00,00,$70.00,00
+22,217,c,Veh. with improperly mounted auxiliary lamps  ................................ ...........,$70.00,00,$70.00,00
+22,218,e,Using flashing lighting on unauthorized veh .  ................................ ..............,$60.00,00,$60.00,00
+22,218.1,h,Unlawful use of motor veh. rural letter carrier warning device  ....................,$60.00,00,$60.00,00
+22,219,b,Failure to equip veh. with required electric turn signals  ...............................,$70.00,00,$70.00,00
+22,219,c,Failure to properly mount required front turn signal on vehicle  ...................,$70.00,00,$70.00,00
+22,219,d,Failure to properly mount required rear turn signal on vehicle  ....................,$70.00,00,$70.00,00
+22,219,g,Vehicle lamp projecting glaring or dazzling light  ................................ ........,$70.00,00,$70.00,00
+22,221,e,Failure to properly mount traffic hazard warning lights on veh .  .................,$70.00,00,$70.00,00
+22,221,f,Failure of warning lights to be visible from not less than 1500 feet at night,$70.00,00,$70.00,00
+22,226,a,Failure to display two lighted front lamps when required  ............................,$60.00,00,$60.00,00
+22,226,b,"Excessive number of ( head auxiliary, spot ) lamps  used on hwy.  ................",$60.00,00,$60.00,00
+22,227,a,Roadway use of veh. high intensity light improperly directed at roadway  ...,$60.00,00,$60.00,00
+22,227,c,Prohibited use of flashing light  ................................ ................................ .....,$60.00,00,$60.00,00
+22,228,f,School veh. driver failure to use available passenger loading zone  ..............,$60.00,00,$60.00,00
+22,301,d,Failure to equip veh. with acting wheel brakes as required  ..........................,$530.00,00,$530.00,00
+22,301,f,Failure to equip towing veh. with adequate service brakes  ..........................,$530.00,00,$530.00,00
+22,301,g,Failure of air brake system in trailer to safeguard against air backflow  .......,$530.00,00,$530.00,00
+22,301,h,Failure to equip towing veh. with two means of emergency brake operation  ...............,$530.00,00,$530.00,00
+22,303,,Failure to maintain and adjust brakes to operate equally with opposite wheels  .....,$530.00,00,$530.00,00
+22,304,c,Operating motorcycle on hwy. with disapproved braking system  ..........................,$70.00,00,$70.00,00
+22,401,b,Driver use of motor veh. horn on hwy. when not reasonably necessary for safety,$60.00,00,$60.00,00
+22,401,c,"Unlawful use of veh. ( siren, whistle, bell ) ................................ ................................ ..",$60.00,00,$60.00,00
+22,401,e,Driver of emergency veh. use of siren in non -emergency  ................................ ........,$60.00,00,$60.00,00
+22,401.1,,Improper use of bell(s) on ice cream vehicle  ................................ .............................,$60.00,00,$60.00,00
+22,403,a,Failure to equip motor veh. with adequate vision rear view mirror  ..............,$70.00,00,$70.00,00
+22,403,b,Failure to equip motor veh. with adequate vision outside mirror  .................,$70.00,00,$70.00,00
+22,403,c,Failure to equip motorcycle with two rear view mirrors  ..............................,$70.00,00,$70.00,00
+22,404,d,Failure to maintain windshield wipers in good working order  .....................,$70.00,00,$70.00,00
+22,404.1,b,Displaying of  sign on motor veh. tending to create safety hazard  ................,$60.00,00,$60.00,00
+22,404.2,,"Unlawful display of State ( seal, emblem ) on veh .  ................................ .......",$60.00,00,$60.00,00
+22,404.4,,Operating propane fueled motor veh. without proper ID decal  ....................,$283.00,00,$283.00,00
+22,404.5,b,Operating veh. with power booster  ................................ ..............................,$290.00,05,$290.00,05
+22,404.5,d,Operating veh. with power booster without required decal  ..........................,$140.00,05,$140.00,05
+22,405.1,d,"(Sell, Offer, Possess with intent to sell ) regrooved tire without req. label mark  .....",MA,00,MA,00
+22,405.5,,"Person ( selling, offering for sale ) unsafe tires for use on hw y.  .......................",$140.00,00,$140.00,00
+22,406,c,Person selling veh. for hwy. driving w/o required safety glass equipment  .....,$70.00,00,$70.00,00
+22,406,i1,Operating veh. on hwy. with unauthorized window tinting material  ...............,$70.00,00,$70.00,00
+22,406,i3,Installing window tinting material not in compliance with requirements .....,$70.00,00,$70.00,00
+22,408,d,Failure to display 2 red flags on roadway for disabled veh .  ........................,$60.00,00,$60.00,00
+22,412,a,Failure to have req. front seat belts on registered motor veh .  ......................,$70.00,00,$70.00,00
+22,412,b,Failure to have req. rear seat belts on registered motor veh .  .......................,$70.00,00,$70.00,00
+22,412.4,,Failure to equip emergency veh. with seat belt  ................................ ............,$70.00,00,$70.00,00
+22,413,d,"Inadequate rear wheel ( protectors, flaps ) on hwy. ( bus, truck, trailer ) ........",$60.00,00,$60.00,00
+22,418,a,School veh. painted in color other than national school bus yellow  .............,$60.00,00,$60.00,00
+23,107,d,Failure to obtain annual inspection of bus  ................................ ....................,$530.00,00,$530.00,00
+23,109,c,Willful issuance of inspection cert. for veh. equipment failing standards  ....,MA,00,MA,00
+24,104,,Exceeding height limit for veh. and its load ................................ ...........................,$140.00,00,$140.00,00
+24,104.1,d2,Operation of over 41 foot length publicly owned rigid bus  ................................ ..,$140.00,00,$140.00,00
+24,104.1,f,Operation of over 60 foot length publicly owned articulated 3 axle bus  .............,$140.00,00,$140.00,00
+24,104.1,g,Vehicle not otherwise exempted exceeding 35 feet in length ...............................,$140.00,00,$140.00,00
+24,104.1,hii,"Operating ( trailer, semitrailer ) in combination exceeding 28 foot length  ...........",$140.00,00,$140.00,00
+24,104.1,j,Operation of combination of vehs. exceeding 55 foot length  ...............................,$140.00,00,$140.00,00
+24,104.1,j3i4,Operating saddle -mount and full -mount combination exceeding 97 ft. length  ...,$140.00,00,$140.00,00
+24,104.1,k,Operating illegal combination of vehicles  ................................ .............................,$140.00,00,$140.00,00
+24,104.1,l2,Operating truck tractor on hwy. in combination with more than two vehicles  ...,$70.00,00,$70.00,00
+6,5,ft,. length  ................................ ................................ ..................,$530.00,00,$530.00,00
+24,105,b,Operating veh. with load extended more than 3 ft. beyond foremost part  ...........,$70.00,00,$70.00,00
+24,105,c1,Operating veh. with load extended more than 6 ft. beyond rear bed and body  ...,$70.00,00,$70.00,00
+24,106,b,"Failure of loaded hwy. veh. to be safely ( constructed, loaded ) .....................",$90.00,00,$90.00,00
+24,106.1,b,"Person carrying loose material in veh. ( on, across ) hwy .  ............................",$90.00,00,$90.00,00
+24,106.1,c,"Person loading loose material for carrying in veh. ( on, across ) hwy .  ..........",$90.00,00,$90.00,00
+24,106.1,d1,Failure to fully enclose bed of vehicle carrying loose material.  ....................,$90.00,00,$90.00,00
+24,107,d,Exceeding the maximum 15ft. connection between towed vehicles  .............,$70.00,00,$70.00,00
+24,107,h,Failure to display warning flag on towing connection as required  ................,$70.00,00,$70.00,00
+24,107,i,Operating a vehicle in combination with more than one other vehicle  .........,$70.00,00,$70.00,00
+24,202,,Driving veh. on hwy. causing unusual damage to hwy.  ................................ ...........,$530.00,00,$530.00,00
+26,102,a,"Veh. owner ( requiring, knowingly permitting ) unlawful hwy. veh. operation  .",$290.00,00,$290.00,00
+26,102,b,Directing and permitting hwy. veh. operation contrary to law  ................,$290.00,00,$290.00,00
+26,203,,Refusing to sign a traffic citation after request  ................................ ........,$140.00,00,$140.00,00
+26,305,d,Driving motor vehicle while registration suspended under TR §26 -305(b)(1),$530.00,00,$530.00,00
+26,408,b,Person soliciting another to cancel traffic citation  ................................ ...,$530.00,00,$530.00,00
+10,303,a,"Failure to file registration before ( storing, selling ) motor fuel  ..................",MA,00,MA,00
+10,305,a,Failure to submit refinery  specifications by importers  ..............................,MA,00,MA,00
+10,306,a,"Selling motor fuel before submitting terminal agreement, etc .  .................",MA,00,MA,00
+10,306,b,"Selling motor fuel before submitting exchange agreement, etc.   ...............",MA,00,MA,00
+10,308,a,Selling imported gasoline before registering additives  ..............................,MA,00,MA,00
+10,309,a,Selling imported special fuel before registering additives  .........................,MA,00,MA,00
+10,310,a,Selling imported fluids without authorization  ................................ ...........,MA,00,MA,00
+10,310,b,Failure of seller to submit required information  ................................ ........,MA,00,MA,00
