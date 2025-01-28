@@ -468,7 +468,7 @@ def update_subagency_bar(metric_type, selected_year, selected_month, selected_st
             ('Violations: %{x:,.0f}' if metric_type == 'count' else 'Total Fines: $%{x:,.2f}') +
             '<extra></extra>'
         ),
-        marker_color='#4169E1',
+        marker_color='#4287F5',
         marker=dict(cornerradius = 5)
     )
 

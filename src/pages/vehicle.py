@@ -72,7 +72,7 @@ layout = html.Div([
         ),
         html.Div(
             create_filter_panel(processed_df),
-            style={ 'marginTop': '20px'}
+            style={ 'marginTop': '20px', 'padding': '10px'}
         ),
         html.Div([
             html.Label('Vehicle Type', style={
@@ -89,9 +89,9 @@ layout = html.Div([
                 ],
                 value='both',
                 clearable=False,
-                style={'width': '100%'}
+                style={'width': '100%', }
             )
-        ], style={'padding': '10px'}),
+        ], style={'padding': '20px', 'marginTop': '-20px'}),
     ], style={
         'marginTop': '5%',
         'width': '300px',

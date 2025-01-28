@@ -193,9 +193,10 @@ def update_gender_distribution(violation_type, selected_year, selected_month,
         legend=dict(
             orientation='h',
             yanchor='top',
-            y=-0.15,
+            y=-0.25,
             xanchor='right',
-            x=0.85
+            x=0.85,
+            font=dict(size=8, weight='bold')
         ),
         xaxis=dict(
             zeroline=True,
@@ -224,10 +225,9 @@ def update_gender_distribution(violation_type, selected_year, selected_month,
 )
 def update_stacked_area(selected_year, selected_month, selected_states, 
                        weekday_filter, weekend_filter):
-   
     filtered_df = apply_filters(processed_df, selected_year, selected_month, selected_states)
     
-    
+    # Apply day filters
     day_filters = []
     if weekday_filter:
         day_filters.extend([0, 1, 2, 3, 4])
@@ -237,13 +237,26 @@ def update_stacked_area(selected_year, selected_month, selected_states,
     if day_filters:
         filtered_df = filtered_df[filtered_df['DayOfWeek'].isin(day_filters)]
     
-    belts_violations = filtered_df[filtered_df['Belts'] == 'No']
-    alcohol_violations = filtered_df[filtered_df['Alcohol'] == 'Yes']
+    accident_df = filtered_df[filtered_df['Accident'] == 'Yes']
+ 
+    def categorize_severity(row):
+        if row['Personal Injury'] == 'Yes':
+            return 'Injury Accidents'
+        else:
+            return 'Property Damage Only'
     
-    belts_monthly = belts_violations.groupby('Month_Name').size().reset_index(name='Belts')
-    alcohol_monthly = alcohol_violations.groupby('Month_Name').size().reset_index(name='Alcohol')
-
-    monthly_data = pd.merge(belts_monthly, alcohol_monthly, on='Month_Name', how='outer').fillna(0)
+  
+    colors = {
+        'Injury Accidents': '#FF9100',    
+        'Property Damage Only': '#4287F5' 
+    } 
+    
+   
+    accident_df['Accident_Category'] = accident_df.apply(categorize_severity, axis=1)
+    
+   
+    monthly_data = accident_df.groupby(['Month_Name', 'Accident_Category']).size().reset_index(name='Count')
+    pivot_data = monthly_data.pivot(index='Month_Name', columns='Accident_Category', values='Count').fillna(0)
     
   
     month_abbrev = {
@@ -253,42 +266,34 @@ def update_stacked_area(selected_year, selected_month, selected_states,
         'October': 'Oct', 'November': 'Nov', 'December': 'Dec'
     }
     
-    
     month_order = list(month_abbrev.keys())
-    monthly_data['Month_Name'] = pd.Categorical(monthly_data['Month_Name'], 
-                                              categories=month_order, ordered=True)
-    monthly_data = monthly_data.sort_values('Month_Name')
-    monthly_data['Month_Name'] = monthly_data['Month_Name'].map(month_abbrev)
-    
-
-    fig = go.Figure()
+    pivot_data = pivot_data.reindex(month_order)
+    pivot_data.index = pivot_data.index.map(month_abbrev)
     
   
-    categories = [
-        ('Belts', 'Seat Belt Violations', '#E63946'),    
-        ('Alcohol', 'Alcohol Violations', '#2A9D8F')     
-    ]
+    fig = go.Figure()
     
-    for col, name, color in categories:
-        fig.add_trace(go.Scatter(
-            x=monthly_data['Month_Name'],
-            y=monthly_data[col],
-            name=name,
-            mode='lines',
-            stackgroup='one',
-            line=dict(width=0.5),
-            fillcolor=color
-        ))
     
-   
+    for category in colors.keys():
+        if category in pivot_data.columns:
+            fig.add_trace(go.Scatter(
+                x=pivot_data.index,
+                y=pivot_data[category],
+                name=category,
+                mode='lines',
+                stackgroup='one',
+                line=dict(width=0.5),
+                fillcolor=colors[category]
+            ))
+    
     fig.update_layout(
         title=dict(
-            text='Monthly Traffic Violations Distribution',
+            text='Monthly Accidents by Severity',
             x=0.5,
             y=0.9,
             xanchor='center',
             yanchor='top',
-            font=dict(size=14, weight= 'bold', family='Sans-Serif', color='black')
+            font=dict(size=14, weight='bold', family='Sans-Serif', color='black')
         ),
         plot_bgcolor='white',
         paper_bgcolor='white',
@@ -297,21 +302,23 @@ def update_stacked_area(selected_year, selected_month, selected_states,
             tickangle=45
         ),
         yaxis=dict(
-            title=dict(text='Number of Violations', font=dict(size=10, weight='bold')),
+            title=dict(text='Number of Accidents', font=dict(size=10, weight='bold')),
         ),
-        height=180,  
-        margin=dict(l=40, r=40, t=50, b=10), 
+        height=195,  
+        margin=dict(l=40, r=40, t=50, b=0),  
         showlegend=True,
         legend=dict(
-            orientation='h',
-            yanchor='top',
-            y=-0.9,
-            xanchor='right',
-            x=1
+            orientation='h',  
+            yanchor='top',   
+            y=-0.95,          
+            xanchor='center', 
+            x=0.5,          
+            font=dict(size=8, weight='bold')
         )
     )
     
     return fig
+
 @callback(
     Output('double-line-graph', 'figure'),
     [Input('year-filter', 'value'),
@@ -375,7 +382,7 @@ def update_double_line_graph(selected_year, selected_month, selected_states,
             y=non_device_defects,
             mode='lines+markers',
             name='Non-Device Defect Violations',
-            line=dict(color='#ffd166', width=2),  
+            line=dict(color='#4287F5', width=2),  
             marker=dict(size=6)
         ))
     
@@ -418,8 +425,16 @@ def update_double_line_graph(selected_year, selected_month, selected_states,
             ),
         ),
         height=300,
-        margin=dict(l=40, r=40, t=60, b=40),  
-        showlegend=False,  
+        margin=dict(l=40, r=40, t=60, b=0),  
+        showlegend=True,  
+         legend=dict(
+            orientation='h',  
+            yanchor='top',   
+            y=-0.25,          
+            xanchor='center', 
+            x=0.5,          
+            font=dict(size=7, weight='bold')
+        )
        
     )
     
@@ -762,7 +777,7 @@ layout = html.Div([
                 html.Label('Weekends (Sat-Sun)', 
                           style={'marginLeft': '5px', 'fontSize': '14px', 'fontWeight': 'bold', 'fontFamily': 'Monospace'}),
             ], style={'marginTop': '10px', 'display': 'flex', 'alignItems': 'center'}),
-        ], style={'marginTop': '20px'})
+        ], style={'marginTop': '20px', 'marginLeft': '20px'})
     ], style={
         'marginTop': '5%',
         'width': '300px',
@@ -969,7 +984,7 @@ html.Div([
     'top': '680px',
     'left': '20px',
     'boxShadow': '0px 2px 4px rgba(0, 0, 0, 0.1)',
-    'borderRadius':'5px'
+    'borderRadius': '5px'
 }),
 # Double line graph
            html.Div([

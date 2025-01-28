@@ -12,7 +12,6 @@ register_page(__name__, path='/price', name='price')
 model_dict = joblib.load('fine_prediction_model.joblib')
 
 def get_model_metrics():
-    """Extract model metrics from the loaded model dictionary"""
     
     macro_metrics = model_dict['performance']['macro avg']
     weighted_metrics = model_dict['performance']['weighted avg']
@@ -175,7 +174,7 @@ def predict_fine_category(input_data):
 
     return prediction[0], prediction_details
 
-# Read and process the dataset
+
 df = pd.read_csv('Maryland_Traffic_Violation_2025.csv')
 df = load_and_clean_data(df)
 

@@ -331,18 +331,18 @@ def update_radar(selected_race, selected_gender):
         legend=dict(
             orientation="h",
             yanchor="bottom",
-            y=-0.3,
+            y=-0.25,
             xanchor="center",
             x=0.5,
-            font=dict(size=10)
+            font=dict(size=8, weight='bold')
         ),
-        margin=dict(l=0, r=10, t=80, b=20),
-        height=300,
+        margin=dict(l=0, r=10, t=80, b=0),
+        height=320,
         paper_bgcolor='white',
         title=dict(
             text='Incident Distribution by Type',
             x=0.5,
-            y=0.90,
+            y=0.92,
             xanchor='center',
             yanchor='top',
             font=dict(size=14, weight='bold', family='Sans-Serif', color='black')
@@ -586,7 +586,7 @@ layout = html.Div([
                 value='all',
                 clearable=False
             )
-        ], style={'marginTop': '40px'}),
+        ], style={'marginTop': '40px', 'padding': '20px'}),
         
         # Gender Filter
         html.Div([
@@ -602,9 +602,9 @@ layout = html.Div([
                 value='all',
                 clearable=False
             )
-        ], style={'marginTop': '20px'}),
+        ], style={ 'padding': '0px 20px 20px 20px'}),
         
-        # Add Demographics Percentage Checkbox
+        # Demographics Percentage Checkbox
         html.Div([
             dbc.Checkbox(
                 id='demographics-toggle',
@@ -612,7 +612,7 @@ layout = html.Div([
             ),
             html.Label('Demographics Percentage', 
                       style={'marginLeft': '5px', 'fontSize':'14px', 'fontWeight':'bold', 'fontFamily':'Monospace'}),
-        ], style={'marginTop': '20px', 'display': 'flex', 'alignItems': 'center'})
+        ], style={'marginTop': '20px', 'display': 'flex', 'alignItems': 'center', 'marginLeft': '20px'})
     ], style={
         'marginTop': '5%',
         'width': '300px',
